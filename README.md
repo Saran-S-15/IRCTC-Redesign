@@ -1,9 +1,5 @@
-# React + Vite
+IRCTC Re-Designed Website - Tailwind CSS Practise
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Website Link: https://irctc-redesign-frontend-oanf6j7ad-sarans-projects-e91d798c.vercel.app
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# IRCTC-Redesign
+<img width="1440" alt="Screenshot 2024-12-30 at 4 31 46 PM" src="https://github.com/user-attachments/assets/eb66fc6e-9562-4d32-beb7-92b653bae40e" />
